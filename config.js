@@ -10,7 +10,7 @@ window.AUL_CONFIG = {
   demoMode: true,
   share: {
     title: "去伊犁，做几天牧人",
-    text: "住进哈萨克牧民的夏牧场：挤奶、骑马、赶羊、打馕。5天4晚，¥4,680/人起，每期仅8人。",
+    text: "住进哈萨克牧民的夏牧场：挤奶、骑马、赶羊、打馕。5天4晚，¥1,560/人起，每期仅8人。",
     url: "https://salusmedia.github.io/aul-ili/"
   }
 };
